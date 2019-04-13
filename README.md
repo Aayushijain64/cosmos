@@ -2,7 +2,7 @@
 
 > [Join our discussion now](https://discourse.opengenus.org/) 
 
-> The universe ofalgorithmand data structures
+> The universe of algorithmand data structures
 
 **Cosmos** is your personal offline collection of every algorithm and data structure one will ever encounter and use in a lifetime. This provides solutions in various languages spanning `C`, `C++`, `Java`, `JavaScript`, `Swift`, `Python`, `Go` and others.
 
